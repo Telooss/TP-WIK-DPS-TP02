@@ -1,7 +1,3 @@
-Voici la version mise à jour du README, prête à être copiée :
-
----
-
 # README
 
 ## Contexte
